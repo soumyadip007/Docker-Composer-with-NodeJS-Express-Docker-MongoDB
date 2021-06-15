@@ -1,0 +1,23 @@
+{
+  "name": "Docker-Composer-with-NodeJS-Express-Docker",
+  "version": "1.0.0",
+  "description": "Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application's services. Then, with a single command, you create and start all the services from your configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumyadip007/Docker-Composer-with-NodeJS-Express-Docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soumyadip007/Docker-Composer-with-NodeJS-Express-Docker/issues"
+  },
+  "homepage": "https://github.com/soumyadip007/Docker-Composer-with-NodeJS-Express-Docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
